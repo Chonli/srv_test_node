@@ -1,0 +1,19 @@
+{
+    "name": "node_srv_send_big_file",
+    "version": "0.2.0",
+	"description": "Simple server test TCP to send file write with node",
+	"main": "node_srv_send_big_file.js",
+    "dependencies": {
+        "console-timestamp": "~0.3.0"
+    },
+  	"repository": {
+		"type": "git",
+		"url": "https://github.com/Chonli/srv_test_node.git"
+	},
+	"author": "Chonli",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/Chonli/srv_test_node/issues"
+	},
+	"homepage": "https://github.com/Chonli/srv_test_node"
+}
